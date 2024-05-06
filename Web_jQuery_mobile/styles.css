@@ -1,0 +1,21 @@
+/* Custom styles */
+[data-role="header"], [data-role="footer"] {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  text-align: center;
+}
+
+.ui-content {
+  padding: 20px;
+}
+
+.ui-btn.ui-btn-b {
+  background-color: #008CBA; /* Blue */
+  color: white;
+}
+
+.ui-btn.ui-btn-b:hover {
+  background-color: #005f7a; /* Darker Blue */
+}
+
+  
